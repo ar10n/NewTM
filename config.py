@@ -1,0 +1,9 @@
+DEBUG = True
+CSRF_ENABLED = True
+SECRET_KEY = '6944c8d7268e5978c59a61ab099d7744956f921922d9b016'
+MAIL_SERVER = 'smtp.yandex.ru'
+MAIL_PORT = 465
+MAIL_USE_SSL = True
+MAIL_USERNAME = 'z@tendermarkt.ru'
+MAIL_PASSWORD = 'Gfhjkm2018'
+MAIL_DEFAULT_SENDER = 'z@tendermarkt.ru'
